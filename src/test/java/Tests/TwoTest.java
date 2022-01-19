@@ -19,6 +19,9 @@ public void TwoTest() throws IOException, Exception {
 		
 		System.out.println("inside two test");
 		
+		System.out.println("jan 19 is remarkable");
+		
+		
 	driver=	IntializeDriver();
 	
 	driver.get("http://tutorialsninja.com/demo/");
