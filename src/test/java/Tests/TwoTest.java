@@ -15,6 +15,9 @@ public class TwoTest extends base {
 	@Test
 public void TwoTest() throws IOException, Exception {
 	
+	System.out.println("sai completed joining formalities");
+	
+	
 	System.out.println("ramayya has modified");
 	System.out.println("sai got job");
 		
