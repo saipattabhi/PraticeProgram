@@ -17,6 +17,9 @@ public void TwoTest() throws IOException, Exception {
 	
 	System.out.println("sai completed joining formalities");
 	
+	System.out.println("sai got offer from tcs");
+	System.out.println("sai got offer from cognizant");
+	
 	
 	System.out.println("ramayya has modified");
 	System.out.println("sai got job");
